@@ -301,11 +301,11 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://th.bing.com/th?id=OIP.2C-VtlkK8CgvkVfVQavxdAHaFx&w=202&h=158&c=8&rs=1&qlt=90&o=6&dpr=1.9&pid=3.1&rm=2",
+    img: "https://open.ieee.org/wp-content/uploads/Nitte-Meenakshi-Institute-of-Technology.png",
     school: "Nitte Meenakshi Institute of Technology , Bangalore",
     date: "Oct 2021 - Sep 2025",
     grade: "9.16 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Nitte meenakshi Institute of Technology, Bengaluru. I have completed 4 semesters and have a CGPA of 9.16. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Solvify at NMIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I graduated with a Bachelor's degree in Computer Science and Engineering from Nitte Meenakshi Institute of Technology, Bengaluru, with a final CGPA of 9.23. During my studies, I completed courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I was a member of Solvify at NMIT, where I worked on projects with a team of talented developers. Additionally, I was active in the Chiguru Club, where we conducted cultural activities.",
     degree: "Bachelor Enginerring - BE, Computer Science and Engineering",
   },
   {
@@ -317,15 +317,6 @@ export const education = [
     desc: "Completed the Pre-University Course (11th & 12th) at SJM Independent PU College of Science, fostering a strong academic foundation in the sciences. ",
     degree: "Pre-University Course",
   },
-  // {
-  //   id: 2,
-  //   img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-  //   school: "Methodist School, Dankuni",
-  //   date: "Apr 2017 - Apr 2019",
-  //   grade: "92.3%",
-  //   desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-  //   degree: "ICSC(X), Science with Computer",
-  // },
 ];
 
 export const projects = [
